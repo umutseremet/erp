@@ -1,0 +1,90 @@
+## Build Results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+## Rider
+.idea/
+*.sln.iml
+
+## Visual Studio
+.vs/
+.vscode/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Configuration files
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+## Paket Yöneticileri
+packages/
+*.nupkg
+*.snupkg
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Test sonuçları
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.testsettings
+
+## Publish çıktıları
+*.publish.xml
+publish/
+
+## Dotnet CLI
+project.assets.json
+project.nuget.cache
+*.dbmdl
+*.bak
+*.sql
+
+## Global JSON
+global.json
+
+## Entity Framework
+Migrations/
+
+## SonarQube
+.sonar/
+
+## Logs ve cache
+*.pid
+*.tmp
+*.temp
+*.bak
+*.cache
+*.log
+
+## Optional: Eğer docker kullanıyorsan
+docker-compose.override.yml
+
+# Local SQLite veya veritabanı dosyaları (opsiyonel)
+*.mdf
+*.ldf
+*.sqlite
+*.db
